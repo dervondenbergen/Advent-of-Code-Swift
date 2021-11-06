@@ -122,3 +122,13 @@ let threeElements = findElements(where: 3, from: inputData, resultIn: combinedVa
 
 print("two elements: \(twoElements) resulting in \(multiplyElements(twoElements))")
 print("three elements: \(threeElements) resulting in \(multiplyElements(threeElements))")
+
+print("\nTEST\n")
+
+let t2E = findElements(where: 2, from: exampleData, resultIn: combinedValue)
+let mEt2E = multiplyElements(t2E)
+print("test two: \(t2E) resulting in \(mEt2E) should equal 514579 == \(mEt2E == 514579)")
+let t3E = findElements(where: 3, from: exampleData, resultIn: combinedValue)
+let mEt3E = multiplyElements(t3E)
+print("test three: \(t3E) resulting in \(mEt3E) should equal 241861950 == \(mEt3E == 241861950)")
+/// OHJE geht eigentlich gar nicht, weil returned schon auch wenn nur zwei den wert erreichen
