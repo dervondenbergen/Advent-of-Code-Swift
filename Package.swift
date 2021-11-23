@@ -105,5 +105,13 @@ let package = Package(
                 .copy("input11.txt")
             ]
         ),
+        .executableTarget(
+            name: "2020/Day12",
+            dependencies: ["Helpers"],
+            path: "Sources/2020/Day12",
+            resources: [
+                .copy("input12.txt")
+            ]
+        ),
     ]
 )
