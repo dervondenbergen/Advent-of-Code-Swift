@@ -15,3 +15,9 @@ extension Bundle {
         return Helpers.loadTextdataFromFile(name: name, in: self)
     }
 }
+
+public extension StringProtocol {
+    subscript(offset: Int) -> Character {
+        self[index(startIndex, offsetBy: offset)]
+    }
+}
