@@ -125,5 +125,9 @@ let package = Package(
                 .copy("input14.txt")
             ]
         ),
+        .executableTarget(
+            name: "2020/Day15",
+            path: "Sources/2020/Day15"
+        ),
     ]
 )
