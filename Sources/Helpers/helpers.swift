@@ -21,3 +21,15 @@ public extension StringProtocol {
         self[index(startIndex, offsetBy: offset)]
     }
 }
+
+public extension Array where Element == Int {
+    var binaryDescription: [String] {
+        return self.map { String($0, radix: 2) }
+    }
+}
+
+public extension Int {
+    func pow(to exponent: Int) -> Int {
+        return Int(Darwin.pow(Double(self), Double(exponent)))
+    }
+}
