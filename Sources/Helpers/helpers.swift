@@ -26,6 +26,12 @@ public extension Array where Element == Int {
     var binaryDescription: [String] {
         return self.map { String($0, radix: 2) }
     }
+    
+    func binaryDescription(pad: Int) -> [String] {
+        return self.binaryDescription.map {
+            String(repeatElement("0", count: pad - $0.count)) + $0
+        }
+    }
 }
 
 public extension Int {
