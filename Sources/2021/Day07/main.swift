@@ -43,7 +43,6 @@ func getFuelForCheapestPositionV2(positions positionData: String) -> Int {
         
     let fuel = positions.map {
         let difference = abs($0 - Int(cheapestPosition))
-        let difference = abs($0 - Int(cheapestPosition))
         if difference == 0 {
             return 0
         }
