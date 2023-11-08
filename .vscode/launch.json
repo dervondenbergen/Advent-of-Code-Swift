@@ -1,0 +1,418 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day08",
+            "program": "${workspaceFolder}/.build/debug/2021/Day08",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day08"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day08",
+            "program": "${workspaceFolder}/.build/release/2021/Day08",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day08"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day07",
+            "program": "${workspaceFolder}/.build/debug/2021/Day07",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day07"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day07",
+            "program": "${workspaceFolder}/.build/release/2021/Day07",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day07"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day06",
+            "program": "${workspaceFolder}/.build/debug/2021/Day06",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day06"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day06",
+            "program": "${workspaceFolder}/.build/release/2021/Day06",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day06"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day05",
+            "program": "${workspaceFolder}/.build/debug/2021/Day05",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day05"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day05",
+            "program": "${workspaceFolder}/.build/release/2021/Day05",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day05"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day04",
+            "program": "${workspaceFolder}/.build/debug/2021/Day04",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day04"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day04",
+            "program": "${workspaceFolder}/.build/release/2021/Day04",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day04"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day03",
+            "program": "${workspaceFolder}/.build/debug/2021/Day03",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day03"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day03",
+            "program": "${workspaceFolder}/.build/release/2021/Day03",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day03"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day02",
+            "program": "${workspaceFolder}/.build/debug/2021/Day02",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day02"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day02",
+            "program": "${workspaceFolder}/.build/release/2021/Day02",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day02"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2021/Day01",
+            "program": "${workspaceFolder}/.build/debug/2021/Day01",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2021/Day01"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2021/Day01",
+            "program": "${workspaceFolder}/.build/release/2021/Day01",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2021/Day01"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day15",
+            "program": "${workspaceFolder}/.build/debug/2020/Day15",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day15"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day15",
+            "program": "${workspaceFolder}/.build/release/2020/Day15",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day15"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day14",
+            "program": "${workspaceFolder}/.build/debug/2020/Day14",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day14"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day14",
+            "program": "${workspaceFolder}/.build/release/2020/Day14",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day14"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day13",
+            "program": "${workspaceFolder}/.build/debug/2020/Day13",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day13"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day13",
+            "program": "${workspaceFolder}/.build/release/2020/Day13",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day13"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day12",
+            "program": "${workspaceFolder}/.build/debug/2020/Day12",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day12"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day12",
+            "program": "${workspaceFolder}/.build/release/2020/Day12",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day12"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day11",
+            "program": "${workspaceFolder}/.build/debug/2020/Day11",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day11"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day11",
+            "program": "${workspaceFolder}/.build/release/2020/Day11",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day11"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day10",
+            "program": "${workspaceFolder}/.build/debug/2020/Day10",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day10"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day10",
+            "program": "${workspaceFolder}/.build/release/2020/Day10",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day10"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day09",
+            "program": "${workspaceFolder}/.build/debug/2020/Day09",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day09"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day09",
+            "program": "${workspaceFolder}/.build/release/2020/Day09",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day09"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day08",
+            "program": "${workspaceFolder}/.build/debug/2020/Day08",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day08"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day08",
+            "program": "${workspaceFolder}/.build/release/2020/Day08",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day08"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day07",
+            "program": "${workspaceFolder}/.build/debug/2020/Day07",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day07"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day07",
+            "program": "${workspaceFolder}/.build/release/2020/Day07",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day07"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day06",
+            "program": "${workspaceFolder}/.build/debug/2020/Day06",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day06"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day06",
+            "program": "${workspaceFolder}/.build/release/2020/Day06",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day06"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day05",
+            "program": "${workspaceFolder}/.build/debug/2020/Day05",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day05"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day05",
+            "program": "${workspaceFolder}/.build/release/2020/Day05",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day05"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day04",
+            "program": "${workspaceFolder}/.build/debug/2020/Day04",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day04"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day04",
+            "program": "${workspaceFolder}/.build/release/2020/Day04",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day04"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day03",
+            "program": "${workspaceFolder}/.build/debug/2020/Day03",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day03"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day03",
+            "program": "${workspaceFolder}/.build/release/2020/Day03",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day03"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day02",
+            "program": "${workspaceFolder}/.build/debug/2020/Day02",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day02"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day02",
+            "program": "${workspaceFolder}/.build/release/2020/Day02",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day02"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug 2020/Day01",
+            "program": "${workspaceFolder}/.build/debug/2020/Day01",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Debug 2020/Day01"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release 2020/Day01",
+            "program": "${workspaceFolder}/.build/release/2020/Day01",
+            "args": [],
+            "cwd": "${workspaceFolder:Advent-of-Code-Swift}",
+            "preLaunchTask": "swift: Build Release 2020/Day01"
+        }
+    ]
+}
